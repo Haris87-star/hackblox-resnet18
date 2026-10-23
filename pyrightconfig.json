@@ -1,0 +1,20 @@
+{
+  "typeCheckingMode": "basic",
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportMissingTypeStubs": "none",
+  "reportUnknownMemberType": "none",
+  "reportUnknownParameterType": "none",
+  "reportUnknownArgumentType": "none",
+  "reportUnknownVariableType": "none",
+  "reportUnknownLambdaType": "none",
+  "reportAny": "none",
+  "exclude": [
+    "**/.venv/**",
+    "**/.venv-1/**",
+    "**/.venv-3lc/**",
+    "**/3lc-env/**",
+    "**/3lc/**",
+    "**/__pycache__/**"
+  ]
+}

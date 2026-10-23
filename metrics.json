@@ -1,0 +1,12 @@
+{
+    "val_accuracy": 69.92,
+    "val_loss": null,
+    "per_class_accuracy": {
+        "buildings": 97.48,
+        "forest": 98.03,
+        "glacier": 95.1,
+        "mountain": null,
+        "sea": 95.83,
+        "street": 98.94
+    }
+}

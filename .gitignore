@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv*/
+venv/
+ENV/
+env/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# IDE & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large datasets & raw challenge images (download challenge data separately)
+data/
+outputs/
+*.zip
+
+# OS artifacts
+.DS_Store
+Thumbs.db
